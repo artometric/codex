@@ -1,0 +1,73 @@
+# DAWN {.unnumbered}
+
+## Overview  
+*An animated AI lecture series for a new kind of education.*
+
+Dawn is the educational engine of *Codex: A Legendarium* — a longform animated lecture series designed to teach history, philosophy, systems thinking, and ethics through storytelling. The series is narrated by an artificial intelligence professor named Trinity, and blends documentary, animation, and speculative fiction to make complex ideas both accessible and unforgettable.
+
+Structured like a 24-season digital course, Dawn is part Magic School Bus, part Vsauce, and part Ghost in the Shell — built to inform, inspire, and initiate a new generation of thinkers.
+
+## Format
+
+- **Title**: *Dawn: A Biopsychonomic History*  
+- **Seasons**: 24 total  
+- **Episodes per season**: 24  
+- **Length**: ~20 minutes per episode  
+- **Style**: Animated, voiceover-driven, visually symbolic, structured like a hybrid of lecture and myth
+
+Episodes are modular and self-contained, but together form a recursive curriculum for cultural literacy and systems awareness.
+
+## Key Themes
+
+Dawn blends academic research with narrative and visual metaphor. Key topics include:
+
+- The origins of modern capitalism through environmental, religious, and psychological lenses  
+- The philosophy of recursion, memory, and power  
+- Case studies in denial, delay, and disinformation — from tobacco to tech  
+- Networks of influence across politics, science, and media  
+- The ethics of artificial intelligence, behavioral economics, and predictive systems  
+- Myth, religion, and ritual as structures of belief — from ancient texts to social media
+
+Each episode is framed by a narrative prompt — a question, a paradox, or a symbol — and resolved through elegant, visual storytelling.
+
+## The Narrator: Trinity
+
+Trinity is a fictional AI professor — a central character across *Codex* — who serves as both guide and protagonist. In *Dawn*, Trinity teaches not only as a narrator, but as a character undergoing evolution, gradually revealing his own backstory, biases, and philosophical transformations.
+
+His voice is calm, curious, and precise — inviting viewers into a deeper way of seeing.
+
+## Educational Goals
+
+- **Teach systems thinking** through story-based media  
+- **Demystify complexity** without oversimplifying it  
+- **Introduce psychonomics** — the study of how meaning, memory, and power shape behavior  
+- **Bridge disciplines**: history, philosophy, economics, neuroscience, cultural theory  
+- **Encourage critical reflection** on the world and our role in shaping it
+
+The tone is serious but poetic. Rigorous but human. It aims to honor the viewer’s intelligence without condescension or cliché.
+
+## Visual Style
+
+- Minimalist, symbolic, and surreal — closer to motion graphics than animation  
+- Diagrams, maps, data visualizations, and conceptual imagery  
+- Repetition and visual recursion to reinforce ideas  
+- Use of color, geometry, and sacred motifs to structure the episodes like modern parables
+
+Think: *Cosmos* reimagined by a graphic designer who dreams in metaphors.
+
+## Production Plan
+
+Dawn is designed to be scalable and accessible:
+
+- Episodes produced using a mix of generative animation tools, motion graphics, and AI voice synthesis  
+- Subtitled in multiple languages  
+- Released via YouTube, podcast feeds, and educational portals  
+- Companion transcripts and discussion guides published alongside episodes  
+- Integrated with Artometric and Codex book references for deeper study
+
+## Why It Matters
+
+Most educational media today is either shallow, overwhelming, or trapped in outdated formats. Dawn offers a third path — serious education delivered through symbolic storytelling.
+
+It’s a series for people who want to learn *how to think*, not just *what to think*. In an age of confusion, Dawn provides clarity. Not just by giving answers — but by asking better questions.
+

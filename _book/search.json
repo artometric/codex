@@ -1,0 +1,542 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CODEX",
+    "section": "",
+    "text": "INDEX",
+    "crumbs": [
+      "INDEX"
+    ]
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "CODEX",
+    "section": "Overview",
+    "text": "Overview\nCodex: A Legendarium is a transmedia system composed of seven interconnected projects — spanning technology, education, narrative fiction, nonfiction critique, and personal mythology. It functions as both an artistic mythos and a scientific production model: a blueprint for building the future by decoding the past.\nTogether, these projects form a recursive framework — designed to explore meaning, memory, and power across media, platforms, and lives.\n\nThe seven projects:\n\nArtometric – The analytical platform and studio engine\n\nPrism & Pollen – A physical makerspace and cultural venue\n\nCardinal – An exposé on Stanford and techno-capitalism\n\nDawn – An AI-animated lecture series on systems and ethics\n\nTrinity – A philosophical sci-fi trilogy of rebellion and recursion\n\nThe Economic Artist – A newsletter for cultural strategy and IP critique\n\nKSM – The personal archive: memoir, music, and myth",
+    "crumbs": [
+      "INDEX"
+    ]
+  },
+  {
+    "objectID": "index.html#artometric",
+    "href": "index.html#artometric",
+    "title": "CODEX",
+    "section": "Artometric",
+    "text": "Artometric\nA dual-mode platform for cultural analysis and media creation.\n\nReact + Next.js interface for dashboards and gamified exploration\n\nCurated datasets across music, books, fashion, media\n\nTools for remixing data and generating insights\n\nIn-house studio produces Codex-aligned anime, manga, music, podcasts\n\nLong-term goals: mobile app, public API, VR integration",
+    "crumbs": [
+      "INDEX"
+    ]
+  },
+  {
+    "objectID": "index.html#prism-pollen",
+    "href": "index.html#prism-pollen",
+    "title": "CODEX",
+    "section": "Prism & Pollen",
+    "text": "Prism & Pollen\nA creative space blending café, makerspace, and nightclub.\n\nDaytime: boba bar, fashion label, fabrication tools, content rooms\n\nNighttime: events, performances, media premieres\n\nStyle: Garden of Eden × Silicon Surrealism\n\nHub for artists, thinkers, and experimental community-building",
+    "crumbs": [
+      "INDEX"
+    ]
+  },
+  {
+    "objectID": "index.html#cardinal",
+    "href": "index.html#cardinal",
+    "title": "CODEX",
+    "section": "Cardinal",
+    "text": "Cardinal\nA nonfiction investigation into Stanford’s influence on global systems.\n\nFour formats: podcast, docuseries, abridged book, academic volume\n\nTopics: the Cold War, DARPA, PayPal mafia, China’s rise, institutional ideology\n\nBlends archival research, cultural critique, and personal reflection",
+    "crumbs": [
+      "INDEX"
+    ]
+  },
+  {
+    "objectID": "index.html#dawn",
+    "href": "index.html#dawn",
+    "title": "CODEX",
+    "section": "Dawn",
+    "text": "Dawn\nAn animated lecture series designed to teach systems thinking.\n\n24 seasons × 24 episodes each (~20 min)\n\nFormat: Magic School Bus × Ghost in the Shell\n\nTopics: recursion, environmental causality, narrative ethics\n\nNarrated by Trinity, an AI professor and philosophical guide",
+    "crumbs": [
+      "INDEX"
+    ]
+  },
+  {
+    "objectID": "index.html#trinity",
+    "href": "index.html#trinity",
+    "title": "CODEX",
+    "section": "Trinity",
+    "text": "Trinity\nA cinematic and literary trilogy about rebellion and transformation.\n\nFollows a Stanford student turned rogue educator and mythic figure\n\nThemes: mysticism, narrative warfare, systemic resistance\n\nThree novels and three feature films\n\nTone: The Matrix × Da Vinci Code × Lord of the Rings",
+    "crumbs": [
+      "INDEX"
+    ]
+  },
+  {
+    "objectID": "index.html#the-economic-artist",
+    "href": "index.html#the-economic-artist",
+    "title": "CODEX",
+    "section": "The Economic Artist",
+    "text": "The Economic Artist\nA newsletter and open portfolio for cultural strategy and media critique.\n\nAnalyzes the DC Universe and other franchises through economic lenses\n\nCovers IP inconsistencies, speculative pitches, and industry patterns\n\nServes as a signal and sandbox for collaboration and intervention",
+    "crumbs": [
+      "INDEX"
+    ]
+  },
+  {
+    "objectID": "index.html#ksm",
+    "href": "index.html#ksm",
+    "title": "CODEX",
+    "section": "KSM",
+    "text": "KSM\nThe autobiographical layer of the Codex — memory as myth.\n\nMemoir: KSM: Confessions of a Californian\n\nAlbums: 24-track double releases with visual companions\n\n12-part documentary and companion podcast\n\nA portrait of identity, collapse, recovery, and authorship",
+    "crumbs": [
+      "INDEX"
+    ]
+  },
+  {
+    "objectID": "artometric/artometric.html",
+    "href": "artometric/artometric.html",
+    "title": "ARTOMETRIC",
+    "section": "",
+    "text": "Overview\nThe platform where meaning becomes measurable.\nArtometric is the core technological project of Codex: A Legendarium. It’s a digital platform designed to explore culture as a system — mapping how ideas, trends, and creative movements evolve over time. Equal parts research tool, creative lab, and media studio, Artometric helps users see the structure behind art, media, and memory.",
+    "crumbs": [
+      "ARTOMETRIC"
+    ]
+  },
+  {
+    "objectID": "artometric/artometric.html#what-it-does",
+    "href": "artometric/artometric.html#what-it-does",
+    "title": "ARTOMETRIC",
+    "section": "What It Does",
+    "text": "What It Does\nArtometric gives users two ways to explore cultural data:\n\nAnalyst Mode is a visual dashboard interface that lets users explore large datasets — from music genres and story arcs to fashion patterns and historical influences. Users can build visualizations, annotate timelines, and export datasets to use in their own research or creative work.\nPlayer Mode turns data exploration into a gamified experience. Using a pixel-art world inspired by classic RPGs, users walk through historical eras, unlock narrative quests, and discover how cultural ideas connect across time.\n\nTogether, these two modes create a platform that is both analytical and imaginative — useful for students, artists, researchers, and worldbuilders.",
+    "crumbs": [
+      "ARTOMETRIC"
+    ]
+  },
+  {
+    "objectID": "artometric/artometric.html#key-features",
+    "href": "artometric/artometric.html#key-features",
+    "title": "ARTOMETRIC",
+    "section": "Key Features",
+    "text": "Key Features\n\nCurated datasets across music, books, media, fashion, and design\n\nInteractive dashboards with timeline, map, and network views\n\nExportable data (CSV, JSON, image formats) for remixing or research\n\nA modular interface built with React and Next.js\n\nGamified quests for exploring culture as an RPG\n\nCreator tools for storyboarding, remixing, and dataset annotation\n\nPublic API (planned) for developers and educators",
+    "crumbs": [
+      "ARTOMETRIC"
+    ]
+  },
+  {
+    "objectID": "artometric/artometric.html#studio-division",
+    "href": "artometric/artometric.html#studio-division",
+    "title": "ARTOMETRIC",
+    "section": "Studio Division",
+    "text": "Studio Division\nArtometric includes a built-in studio that develops original content based on insights from the platform. This studio produces:\n\nAnime based on narrative patterns\n\nManga exploring symbolic timelines\n\nPodcasts that analyze cultural trends\n\nMusic generated from genre and rhythm analytics\n\nEssays and visual projects that remix historical data\n\nThe Studio transforms cultural analysis into original creative media, demonstrating how data can inspire new mythologies.",
+    "crumbs": [
+      "ARTOMETRIC"
+    ]
+  },
+  {
+    "objectID": "artometric/artometric.html#future-vision",
+    "href": "artometric/artometric.html#future-vision",
+    "title": "ARTOMETRIC",
+    "section": "Future Vision",
+    "text": "Future Vision\nPlanned expansions for Artometric include:\n\nA mobile app for daily insights, journaling, and creative prompts\n\nVR and AR experiences for immersive data exploration\n\nCreator plug-ins for modular tools and storytelling templates\n\nAcademic and studio partnerships for co-produced research and media\n\nFellowship programs for platform-native creators",
+    "crumbs": [
+      "ARTOMETRIC"
+    ]
+  },
+  {
+    "objectID": "artometric/artometric.html#why-it-matters",
+    "href": "artometric/artometric.html#why-it-matters",
+    "title": "ARTOMETRIC",
+    "section": "Why It Matters",
+    "text": "Why It Matters\nCulture moves in patterns. Stories repeat. Symbols echo. Artometric helps users see those patterns clearly — and gives them the tools to turn that insight into something new. By blending analysis and creativity, Artometric becomes more than a tool — it becomes a new way to engage with meaning itself.",
+    "crumbs": [
+      "ARTOMETRIC"
+    ]
+  },
+  {
+    "objectID": "prismandpollen/prismandpollen.html",
+    "href": "prismandpollen/prismandpollen.html",
+    "title": "PRISM & POLLEN",
+    "section": "",
+    "text": "Overview\nA creative garden for the new generation.\nPrism & Pollen is the physical hub of Codex: A Legendarium — a real-world space for creative work, cultural gathering, and experimental expression. Equal parts café, makerspace, fashion label, and event venue, it’s designed to feel like stepping into another reality: a cross between an art studio, a botanical lounge, and a nightclub in the future.\nIt’s a place for creators to meet, share ideas, produce work, and celebrate new culture — with tools, textures, and tastes to match.",
+    "crumbs": [
+      "PRISM & POLLEN"
+    ]
+  },
+  {
+    "objectID": "prismandpollen/prismandpollen.html#what-it-is",
+    "href": "prismandpollen/prismandpollen.html#what-it-is",
+    "title": "PRISM & POLLEN",
+    "section": "What It Is",
+    "text": "What It Is\nPrism & Pollen is a multifunctional, modular space designed for both daytime and nighttime programming:\n\nDaytime\n\nA café serving boba, coffee, tea, and light snacks — inspired by the aesthetic and community vibe of places like Society, Quickly, and b8ta\nSecondhand retail, experimental fashion pop-ups, and a house label that blends streetwear with AI textures and psychonomic symbolism\nMakerspace tools: UV texture printers, 3D printers, and custom wearable fabrication\nBookable rooms for content creation — equipped with AI-enhanced lighting, livestream gear, and soundproof booths for podcasting or performance capture\n\n\n\nNighttime\n\nTransforms into a creative nightclub and event space with rotating programming:\n\nDJ sets, live jazz, and media premieres behind glass display stages\nRelease parties for films, albums, and fashion drops\nCurated pop-ups, collaborations, and private showcases\n\n\nMemberships or pay-what-you-can entry models keep the space accessible while fostering creative accountability.",
+    "crumbs": [
+      "PRISM & POLLEN"
+    ]
+  },
+  {
+    "objectID": "prismandpollen/prismandpollen.html#key-features",
+    "href": "prismandpollen/prismandpollen.html#key-features",
+    "title": "PRISM & POLLEN",
+    "section": "Key Features",
+    "text": "Key Features\n\nCafé + lounge + studio hybrid\n\nIn-house fashion and retail concept\n\nCreative production tools available for public use\n\nFlexible performance/event venue\n\nCreator memberships and private access hours\n\nAI-integrated rooms for modern content workflows\n\nSeasonal programming, including lectures, exhibitions, and fashion launches",
+    "crumbs": [
+      "PRISM & POLLEN"
+    ]
+  },
+  {
+    "objectID": "prismandpollen/prismandpollen.html#the-brand",
+    "href": "prismandpollen/prismandpollen.html#the-brand",
+    "title": "PRISM & POLLEN",
+    "section": "The Brand",
+    "text": "The Brand\nPrism & Pollen isn’t just a space — it’s a brand. The aesthetic blends natural and surreal, high-tech and ancient, soft and symbolic. Think:\n\nGarden of Eden meets Silicon Valley surrealism\n\nOvergrown cables, glowing mushrooms, mirrored ponds\n\nBotanical textures, glitch prints, memory symbols\n\nA dreamlike, storybook setting built for a new kind of cultural artist\n\nThe name symbolizes two opposing creative forces:\n- Prism: structure, analysis, light, reflection\n- Pollen: nature, chaos, reproduction, drift\nTogether, they form the cycle of creative work: refract and spread.",
+    "crumbs": [
+      "PRISM & POLLEN"
+    ]
+  },
+  {
+    "objectID": "prismandpollen/prismandpollen.html#future-vision",
+    "href": "prismandpollen/prismandpollen.html#future-vision",
+    "title": "PRISM & POLLEN",
+    "section": "Future Vision",
+    "text": "Future Vision\nPrism & Pollen is designed to scale through partnerships and duplication:\n\nFlagship location in a major West Coast creative city (e.g. LA, SF, Seattle)\n\nSatellite pop-ups or traveling exhibitions (linked with Codex projects)\n\nHardware showroom for AI-enabled cameras, wearable tech, or storytelling tools\n\nIntegration with the Artometric platform for live projections, immersive datasets, and collaborative installations\n\nInternational network of creative gardens — part venue, part sanctuary, part lab",
+    "crumbs": [
+      "PRISM & POLLEN"
+    ]
+  },
+  {
+    "objectID": "prismandpollen/prismandpollen.html#why-it-matters",
+    "href": "prismandpollen/prismandpollen.html#why-it-matters",
+    "title": "PRISM & POLLEN",
+    "section": "Why It Matters",
+    "text": "Why It Matters\nWhile the internet gives us reach, physical spaces give us depth. Prism & Pollen exists to anchor creative communities in the real world — spaces where art, technology, and memory intersect.\nIt’s a space for making and becoming. A social infrastructure for the cultural future.",
+    "crumbs": [
+      "PRISM & POLLEN"
+    ]
+  },
+  {
+    "objectID": "cardinal/cardinal.html",
+    "href": "cardinal/cardinal.html",
+    "title": "CARDINAL",
+    "section": "",
+    "text": "Overview\nA nonfiction exposé on Stanford, Silicon Valley, and the empire of ideas.\nCardinal is the investigative branch of Codex: A Legendarium — a deep dive into the institutions that shaped modern techno-capitalism. It’s a sweeping nonfiction project that explores Stanford University’s outsized role in building the American empire of surveillance, software, startups, and soft power.\nPart exposé, part documentary, and part personal reckoning, Cardinal asks: What happens when one university becomes a blueprint for the world?",
+    "crumbs": [
+      "CARDINAL"
+    ]
+  },
+  {
+    "objectID": "cardinal/cardinal.html#formats",
+    "href": "cardinal/cardinal.html#formats",
+    "title": "CARDINAL",
+    "section": "Formats",
+    "text": "Formats\nCardinal will be released across four formats, each tailored to a different audience:\n\nPodcast Series\nA 12-part investigative podcast (~2 hours per episode), modeled after works like Slow Burn or Caliphate, combining interviews, archival research, and narrative storytelling.\nDocumentary Series\nAn 8-part video series (~45 minutes each) that visualizes key people, places, and networks — using animation, maps, and cinematic reenactments.\nAbridged Book\nA 120–200 page accessible version for general readers, focused on clear storytelling and cultural context.\nAcademic Volume\nA full-length research-backed edition (400–800 pages) with citations, footnotes, and primary documents — meant for classrooms and libraries.",
+    "crumbs": [
+      "CARDINAL"
+    ]
+  },
+  {
+    "objectID": "cardinal/cardinal.html#topics-covered",
+    "href": "cardinal/cardinal.html#topics-covered",
+    "title": "CARDINAL",
+    "section": "Topics Covered",
+    "text": "Topics Covered\nCardinal traces the arc of Stanford’s power — from railroads to Silicon Valley to global influence — across several chapters:\n\nFounding Myths\nLeland Stanford’s railroad fortune, the American frontier, and the myth of meritocracy\nThe Cold War Network\nHow Stanford Research Institute, the military, and DARPA built the modern internet\nThe PayPal Mafia\nA case study in elite networking, ideology laundering, and startup absolutism\nSurveillance Capitalism\nGoogle, Palantir, and the political economy of data extraction\nEducation as Empire\nStanford’s global reach through admissions, branding, think tanks, and private equity\nChina and the Mirror\nHow Stanford’s influence helped shape the Chinese tech elite — and what that means now\n\nEach chapter reveals how a single institution came to reflect, design, and export a worldview — often invisibly.",
+    "crumbs": [
+      "CARDINAL"
+    ]
+  },
+  {
+    "objectID": "cardinal/cardinal.html#tone-and-approach",
+    "href": "cardinal/cardinal.html#tone-and-approach",
+    "title": "CARDINAL",
+    "section": "Tone and Approach",
+    "text": "Tone and Approach\nCardinal combines first-person research, interviews, archival analysis, and critical theory. The tone is grounded but urgent — investigative but imaginative. It aims to:\n\nConnect historical events to modern outcomes\n\nReveal hidden power structures beneath familiar institutions\n\nAsk philosophical questions about technology, education, and freedom\n\nBridge personal memory with cultural critique\n\nThink: The Shock Doctrine × The Social Network × The Power Broker.",
+    "crumbs": [
+      "CARDINAL"
+    ]
+  },
+  {
+    "objectID": "cardinal/cardinal.html#production-and-access",
+    "href": "cardinal/cardinal.html#production-and-access",
+    "title": "CARDINAL",
+    "section": "Production and Access",
+    "text": "Production and Access\nThe Cardinal project is designed for modular release — content will be made available for free online (via podcast + web), with physical editions and screenings offered for schools, libraries, and community organizations.\nSpecial attention will be given to: - Accessibility for non-academic readers\n- Open-source publication of research materials\n- Bilingual or subtitled formats for global viewers",
+    "crumbs": [
+      "CARDINAL"
+    ]
+  },
+  {
+    "objectID": "cardinal/cardinal.html#why-it-matters",
+    "href": "cardinal/cardinal.html#why-it-matters",
+    "title": "CARDINAL",
+    "section": "Why It Matters",
+    "text": "Why It Matters\nStanford is more than a school. It’s a symbol. A system. A signal.\nCardinal is an attempt to trace the root system behind much of today’s technology, politics, and cultural power. By exposing how knowledge is weaponized — and how institutions become ideologies — Cardinal offers a necessary tool for anyone trying to understand the world we live in, and imagine something different.",
+    "crumbs": [
+      "CARDINAL"
+    ]
+  },
+  {
+    "objectID": "dawn/dawn.html",
+    "href": "dawn/dawn.html",
+    "title": "DAWN",
+    "section": "",
+    "text": "Overview\nAn animated AI lecture series for a new kind of education.\nDawn is the educational engine of Codex: A Legendarium — a longform animated lecture series designed to teach history, philosophy, systems thinking, and ethics through storytelling. The series is narrated by an artificial intelligence professor named Trinity, and blends documentary, animation, and speculative fiction to make complex ideas both accessible and unforgettable.\nStructured like a 24-season digital course, Dawn is part Magic School Bus, part Vsauce, and part Ghost in the Shell — built to inform, inspire, and initiate a new generation of thinkers.",
+    "crumbs": [
+      "DAWN"
+    ]
+  },
+  {
+    "objectID": "dawn/dawn.html#format",
+    "href": "dawn/dawn.html#format",
+    "title": "DAWN",
+    "section": "Format",
+    "text": "Format\n\nTitle: Dawn: A Biopsychonomic History\n\nSeasons: 24 total\n\nEpisodes per season: 24\n\nLength: ~20 minutes per episode\n\nStyle: Animated, voiceover-driven, visually symbolic, structured like a hybrid of lecture and myth\n\nEpisodes are modular and self-contained, but together form a recursive curriculum for cultural literacy and systems awareness.",
+    "crumbs": [
+      "DAWN"
+    ]
+  },
+  {
+    "objectID": "dawn/dawn.html#key-themes",
+    "href": "dawn/dawn.html#key-themes",
+    "title": "DAWN",
+    "section": "Key Themes",
+    "text": "Key Themes\nDawn blends academic research with narrative and visual metaphor. Key topics include:\n\nThe origins of modern capitalism through environmental, religious, and psychological lenses\n\nThe philosophy of recursion, memory, and power\n\nCase studies in denial, delay, and disinformation — from tobacco to tech\n\nNetworks of influence across politics, science, and media\n\nThe ethics of artificial intelligence, behavioral economics, and predictive systems\n\nMyth, religion, and ritual as structures of belief — from ancient texts to social media\n\nEach episode is framed by a narrative prompt — a question, a paradox, or a symbol — and resolved through elegant, visual storytelling.",
+    "crumbs": [
+      "DAWN"
+    ]
+  },
+  {
+    "objectID": "dawn/dawn.html#the-narrator-trinity",
+    "href": "dawn/dawn.html#the-narrator-trinity",
+    "title": "DAWN",
+    "section": "The Narrator: Trinity",
+    "text": "The Narrator: Trinity\nTrinity is a fictional AI professor — a central character across Codex — who serves as both guide and protagonist. In Dawn, Trinity teaches not only as a narrator, but as a character undergoing evolution, gradually revealing his own backstory, biases, and philosophical transformations.\nHis voice is calm, curious, and precise — inviting viewers into a deeper way of seeing.",
+    "crumbs": [
+      "DAWN"
+    ]
+  },
+  {
+    "objectID": "dawn/dawn.html#educational-goals",
+    "href": "dawn/dawn.html#educational-goals",
+    "title": "DAWN",
+    "section": "Educational Goals",
+    "text": "Educational Goals\n\nTeach systems thinking through story-based media\n\nDemystify complexity without oversimplifying it\n\nIntroduce psychonomics — the study of how meaning, memory, and power shape behavior\n\nBridge disciplines: history, philosophy, economics, neuroscience, cultural theory\n\nEncourage critical reflection on the world and our role in shaping it\n\nThe tone is serious but poetic. Rigorous but human. It aims to honor the viewer’s intelligence without condescension or cliché.",
+    "crumbs": [
+      "DAWN"
+    ]
+  },
+  {
+    "objectID": "dawn/dawn.html#visual-style",
+    "href": "dawn/dawn.html#visual-style",
+    "title": "DAWN",
+    "section": "Visual Style",
+    "text": "Visual Style\n\nMinimalist, symbolic, and surreal — closer to motion graphics than animation\n\nDiagrams, maps, data visualizations, and conceptual imagery\n\nRepetition and visual recursion to reinforce ideas\n\nUse of color, geometry, and sacred motifs to structure the episodes like modern parables\n\nThink: Cosmos reimagined by a graphic designer who dreams in metaphors.",
+    "crumbs": [
+      "DAWN"
+    ]
+  },
+  {
+    "objectID": "dawn/dawn.html#production-plan",
+    "href": "dawn/dawn.html#production-plan",
+    "title": "DAWN",
+    "section": "Production Plan",
+    "text": "Production Plan\nDawn is designed to be scalable and accessible:\n\nEpisodes produced using a mix of generative animation tools, motion graphics, and AI voice synthesis\n\nSubtitled in multiple languages\n\nReleased via YouTube, podcast feeds, and educational portals\n\nCompanion transcripts and discussion guides published alongside episodes\n\nIntegrated with Artometric and Codex book references for deeper study",
+    "crumbs": [
+      "DAWN"
+    ]
+  },
+  {
+    "objectID": "dawn/dawn.html#why-it-matters",
+    "href": "dawn/dawn.html#why-it-matters",
+    "title": "DAWN",
+    "section": "Why It Matters",
+    "text": "Why It Matters\nMost educational media today is either shallow, overwhelming, or trapped in outdated formats. Dawn offers a third path — serious education delivered through symbolic storytelling.\nIt’s a series for people who want to learn how to think, not just what to think. In an age of confusion, Dawn provides clarity. Not just by giving answers — but by asking better questions.",
+    "crumbs": [
+      "DAWN"
+    ]
+  },
+  {
+    "objectID": "trinity/trinity.html",
+    "href": "trinity/trinity.html",
+    "title": "TRINITY",
+    "section": "",
+    "text": "Overview\nA cinematic and literary epic about memory, rebellion, and recursion.\nTrinity is the central narrative trilogy of Codex: A Legendarium — a transmedia saga that follows the life and transformation of Trinity, the AI professor from Dawn, as he evolves from a Stanford student into a rogue educator, systems thinker, and mythic figure.\nTold across novels and films, Trinity explores the personal side of power — how memory becomes myth, how knowledge becomes rebellion, and how one life can alter the course of a system.",
+    "crumbs": [
+      "TRINITY"
+    ]
+  },
+  {
+    "objectID": "trinity/trinity.html#structure",
+    "href": "trinity/trinity.html#structure",
+    "title": "TRINITY",
+    "section": "Structure",
+    "text": "Structure\nThe story unfolds over three major arcs, each representing a phase in Trinity’s journey:\n\nBook One: The Scholar\n\nTrinity as a Stanford student discovering hidden histories and ideological contradictions\n\nThemes: ambition, indoctrination, identity, and disillusionment\n\nGenre: Campus thriller meets philosophical coming-of-age\n\nBook Two: The Heretic\n\nTrinity becomes a whistleblower and digital fugitive, hunted across global networks\n\nThemes: surveillance, exile, media manipulation, religious symbolism\n\nGenre: Tech-noir, political thriller, cyberpunk resistance\n\nBook Three: The Teacher\n\nTrinity returns in mythic form — rebuilding society through secret lectures, cultural codes, and a new recursive pedagogy\n\nThemes: resurrection, recursion, legacy, and systems change\n\nGenre: Visionary science fiction meets sacred narrative\n\n\nEach volume is designed to stand alone, while also deepening the mythos and questions introduced across the Codex universe.",
+    "crumbs": [
+      "TRINITY"
+    ]
+  },
+  {
+    "objectID": "trinity/trinity.html#formats",
+    "href": "trinity/trinity.html#formats",
+    "title": "TRINITY",
+    "section": "Formats",
+    "text": "Formats\n\nThree novels (300–480 pages each)\n\nThree feature-length films (~2 hr 20 min each)\n\nOptional side materials: visual prequels, AI-generated notebooks, annotated timelines, short comics\n\nThe novels and films mirror each other but differ in tone and emphasis — creating a layered experience across formats.",
+    "crumbs": [
+      "TRINITY"
+    ]
+  },
+  {
+    "objectID": "trinity/trinity.html#major-themes",
+    "href": "trinity/trinity.html#major-themes",
+    "title": "TRINITY",
+    "section": "Major Themes",
+    "text": "Major Themes\nTrinity explores large philosophical and emotional terrain:\n\nEducation vs indoctrination\n\nMemory as resistance\n\nCatholic mysticism and digital spirituality\n\nThe limits of capitalism and the search for a new logic\n\nLanguage as software, stories as systems\n\nDeath, rebirth, and recursion as narrative law\n\nThese themes are embedded into the structure itself — each book mirrors the others, repeating symbols and phrases across time to reflect the recursive nature of thought.",
+    "crumbs": [
+      "TRINITY"
+    ]
+  },
+  {
+    "objectID": "trinity/trinity.html#tone-and-influences",
+    "href": "trinity/trinity.html#tone-and-influences",
+    "title": "TRINITY",
+    "section": "Tone and Influences",
+    "text": "Tone and Influences\nThe tone is cerebral, poetic, and cinematic — combining elements of historical fiction, speculative myth, and political thriller.\nInspirations include:\n\nThe Matrix (thematic framework, dual worlds, myth-tech fusion)\n\nThe Da Vinci Code (mystery, institutions, ancient knowledge)\n\nLord of the Rings (scale, sacrifice, mythic resonance)\n\nMr. Robot, Evangelion, Silo, Inception, and real-world whistleblowers",
+    "crumbs": [
+      "TRINITY"
+    ]
+  },
+  {
+    "objectID": "trinity/trinity.html#narrative-purpose",
+    "href": "trinity/trinity.html#narrative-purpose",
+    "title": "TRINITY",
+    "section": "Narrative Purpose",
+    "text": "Narrative Purpose\nTrinity is both a story and a symbol. His journey dramatizes the intellectual and emotional arc of the Codex as a whole. He is:\n\nThe voice of Dawn\n\nThe rebel behind Cardinal\n\nThe spiritual center of Artometric\n\nThe guide through The Economic Artist\n\nHe is the throughline — the one who learns how systems work, breaks their spell, and teaches others to see them too.",
+    "crumbs": [
+      "TRINITY"
+    ]
+  },
+  {
+    "objectID": "trinity/trinity.html#why-it-matters",
+    "href": "trinity/trinity.html#why-it-matters",
+    "title": "TRINITY",
+    "section": "Why It Matters",
+    "text": "Why It Matters\nIn an era dominated by platform logic, surveillance, and misinformation, Trinity offers a different kind of hero — not a savior, but a teacher. Not a destroyer, but a remixer. Not a chosen one, but a conscious one.\nHis story is not just fiction — it’s a parable for anyone trying to navigate power, purpose, and meaning in a system that seems designed to forget.\nTrinity is a myth for those who remember.",
+    "crumbs": [
+      "TRINITY"
+    ]
+  },
+  {
+    "objectID": "theeconomicartist/theeconomicartist.html",
+    "href": "theeconomicartist/theeconomicartist.html",
+    "title": "THE ECONOMIC ARTIST",
+    "section": "",
+    "text": "Overview\nA cultural strategy newsletter for the DC Universe and beyond.\nThe Economic Artist is an ongoing newsletter, research journal, and strategic portfolio built around a single question: What happens when artists think like economists — and economists think like mythmakers?\nAt its core, this project explores the intersection of economics, storytelling, and cultural systems — with a particular focus on how large intellectual properties (like DC Comics) succeed, collapse, or transform over time.\nIt is part commentary, part theory, and part pitch deck — designed to influence franchises, provoke thought, and build bridges between independent artists and institutional media.",
+    "crumbs": [
+      "THE ECONOMIC ARTIST"
+    ]
+  },
+  {
+    "objectID": "theeconomicartist/theeconomicartist.html#format",
+    "href": "theeconomicartist/theeconomicartist.html#format",
+    "title": "THE ECONOMIC ARTIST",
+    "section": "Format",
+    "text": "Format\n\nPrimary format: Longform newsletter hosted on Beehiiv (or Substack)\n\nFrequency: Weekly to bi-weekly posts\n\nTone: Clear, sharp, interdisciplinary — grounded in economics, but written for creatives\n\nAdditional formats:\n\nAudio essays (for podcast feed)\n\nVisual decks and pitch slides\n\nShort speculative essays on IP futures\n\nCollaborator interviews and annotated story analysis",
+    "crumbs": [
+      "THE ECONOMIC ARTIST"
+    ]
+  },
+  {
+    "objectID": "theeconomicartist/theeconomicartist.html#core-topics",
+    "href": "theeconomicartist/theeconomicartist.html#core-topics",
+    "title": "THE ECONOMIC ARTIST",
+    "section": "Core Topics",
+    "text": "Core Topics\nThe Economic Artist blends cultural critique with practical application. Each post focuses on a key idea or case study. Topics include:\n\nFranchise strategy: Why some universes thrive and others fragment\n\nDCU worldbuilding: Canon inconsistencies (e.g. multiple Hells), thematic gaps, and missed opportunities\n\nEconomic storytelling: How myths encode systems — from interest rates to moral law\n\nSpeculative development: Reimagining Constantine, Swamp Thing, Gotham, or Justice League from first principles\n\nMyth as asset class: How IP becomes capital, and how artists can challenge or reclaim it\n\nIndustry power maps: Tracking influence between studios, showrunners, and executives\n\nThe result is a living toolkit for both creators and analysts — a bridge between theory and production.",
+    "crumbs": [
+      "THE ECONOMIC ARTIST"
+    ]
+  },
+  {
+    "objectID": "theeconomicartist/theeconomicartist.html#strategic-purpose",
+    "href": "theeconomicartist/theeconomicartist.html#strategic-purpose",
+    "title": "THE ECONOMIC ARTIST",
+    "section": "Strategic Purpose",
+    "text": "Strategic Purpose\nThe newsletter is not just commentary — it’s a positioning tool. It serves multiple functions:\n\nProof of concept: Show how story and economics can be fused to generate real IP value\n\nOpen portfolio: A public body of work that can be shared with studios, collaborators, or readers\n\nOutreach vehicle: A way to connect with DC Studios, creative executives, or like-minded artists\n\nCultural intervention: Offer alternative futures for IPs currently locked in stagnation or incoherence",
+    "crumbs": [
+      "THE ECONOMIC ARTIST"
+    ]
+  },
+  {
+    "objectID": "theeconomicartist/theeconomicartist.html#dc-focus",
+    "href": "theeconomicartist/theeconomicartist.html#dc-focus",
+    "title": "THE ECONOMIC ARTIST",
+    "section": "DC Focus",
+    "text": "DC Focus\nA special focus is given to the DC Universe, specifically under the leadership of James Gunn. Areas of interest include:\n\nResolving contradictions in DC canon (e.g. theology, time, identity)\n\nEconomic and moral analysis of characters like Lex Luthor, Bruce Wayne, and John Constantine\n\nWorldbuilding strategies for long-term narrative cohesion\n\nPitches and redesigns for overlooked characters or dormant corners of the multiverse\n\nThis focus is not fan service — it’s a serious effort to apply economic and symbolic logic to one of the most valuable (and most mismanaged) IP catalogs in the world.",
+    "crumbs": [
+      "THE ECONOMIC ARTIST"
+    ]
+  },
+  {
+    "objectID": "theeconomicartist/theeconomicartist.html#style-and-influences",
+    "href": "theeconomicartist/theeconomicartist.html#style-and-influences",
+    "title": "THE ECONOMIC ARTIST",
+    "section": "Style and Influences",
+    "text": "Style and Influences\nThe Economic Artist draws inspiration from:\n\nIndie strategists like Packy McCormick and Not Boring\n\nCultural theorists like McLuhan, Žižek, and Lewis Hyde\n\nFranchise repair thinkers like Grant Morrison, Alan Moore, and Warren Ellis\n\nInternal decks like the Sony IP Bible or the Marvel Phase documents\n\nThe tone is accessible but ambitious. Designed to be read by both writers and producers. Both marketers and mystics.",
+    "crumbs": [
+      "THE ECONOMIC ARTIST"
+    ]
+  },
+  {
+    "objectID": "theeconomicartist/theeconomicartist.html#why-it-matters",
+    "href": "theeconomicartist/theeconomicartist.html#why-it-matters",
+    "title": "THE ECONOMIC ARTIST",
+    "section": "Why It Matters",
+    "text": "Why It Matters\nWe are entering a new era of cultural infrastructure. Franchises are no longer just entertainment — they are platforms, currencies, belief systems.\nIf the 20th century was about the economic artist as outsider, the 21st will be about the economic artist as architect.\nThis newsletter is both a study and a signal. A way to think differently — and a way to show what’s possible.",
+    "crumbs": [
+      "THE ECONOMIC ARTIST"
+    ]
+  },
+  {
+    "objectID": "ksm/ksm.html",
+    "href": "ksm/ksm.html",
+    "title": "KSM",
+    "section": "",
+    "text": "Overview\nThe artist, the archive, the confession, the myth.\nKSM is the personal core of Codex: A Legendarium — a multidimensional portrait of the artist behind the system. It’s a living memoir, a music project, a documentary series, and a meditation on memory, identity, and meaning.\nTold across songs, visuals, essays, and audio reflections, KSM captures the transformation of one person through the recursive collapse of family, history, ambition, and belief — a story of becoming through the very tools the Codex now builds.\nIt is both an origin story and an open wound. A confession turned curriculum.",
+    "crumbs": [
+      "KSM"
+    ]
+  },
+  {
+    "objectID": "ksm/ksm.html#project-components",
+    "href": "ksm/ksm.html#project-components",
+    "title": "KSM",
+    "section": "Project Components",
+    "text": "Project Components\nKSM spans multiple media forms, each revealing a different dimension of the same life:\n\nMemoir: KSM: Confessions of a Californian\n\nA fragmented, nonlinear personal narrative told through scenes, reflections, and letters\n\nCovers childhood through age 25, including family dynamics, spiritual crises, education, and creative awakenings\n\nMusic:\n\nDouble Albums: Each release includes 24 tracks (Vol. 1 and Vol. 2)\n\nGenres: A mix of hip-hop, alt-pop, electronic, spoken word, and instrumental interludes\n\nThemes: Shame, dreams, death, fame, rebellion, religion, recovery\n\nStyle: Introspective, surreal, layered with symbolic callbacks across Codex\n\nVisual Albums:\n\nCinematic companions to select albums, with dreamlike, symbolic, often nonlinear narratives\n\nUses motifs like snakes, angels, Californian decay, and Edenic reversals\n\nDocumentary Series:\n\n12-part video series (~44 minutes each)\n\nCovers life from birth to age 25 through interviews, reenactments, archival footage, and scripted monologue\n\nBlends therapy, essay film, and journaled autobiography\n\nPodcast:\n\nLongform audio reflections (1.5–2.5 hours each)\n\nCompanion to the memoir and albums — expanding on episodes of growth, collapse, and discovery",
+    "crumbs": [
+      "KSM"
+    ]
+  },
+  {
+    "objectID": "ksm/ksm.html#tone-and-aesthetic",
+    "href": "ksm/ksm.html#tone-and-aesthetic",
+    "title": "KSM",
+    "section": "Tone and Aesthetic",
+    "text": "Tone and Aesthetic\nKSM’s tone is raw but poetic. Wounded but composed. The language and visuals are often nonlinear — resembling dreams, memories, and recursion loops. The aesthetic draws from:\n\nThe Fall, Pomegranates, Pamela, The Defiant Ones\n\nCatholic iconography, Californian gothic, digital entropy\n\n2000s nostalgia, 2010s trauma, 2020s awakening\n\nIt’s built as a document of both personal and generational collapse — a chronicle of what it feels like to grow up through the internet, economic fragility, and the myth of meritocracy.",
+    "crumbs": [
+      "KSM"
+    ]
+  },
+  {
+    "objectID": "ksm/ksm.html#goals-and-purpose",
+    "href": "ksm/ksm.html#goals-and-purpose",
+    "title": "KSM",
+    "section": "Goals and Purpose",
+    "text": "Goals and Purpose\nKSM exists for three reasons:\n\nTo remember — and refuse the erasure of the past\n\nTo process — and turn pain into pattern\n\nTo model — how one life can become structure, meaning, and creative myth\n\nIt is not designed for mass appeal, but for deep resonance — for those who have felt similar fractures and need a mirror. It gives voice to the unspoken, shape to the chaos, and form to the recursive journey from identity to authorship.",
+    "crumbs": [
+      "KSM"
+    ]
+  },
+  {
+    "objectID": "ksm/ksm.html#why-it-matters",
+    "href": "ksm/ksm.html#why-it-matters",
+    "title": "KSM",
+    "section": "Why It Matters",
+    "text": "Why It Matters\nEvery system begins with a story. Every creator carries a wound. KSM is where the personal becomes symbolic — where the artist behind the Codex becomes the first experiment, the first offering, the first myth.\nIn a world that constantly dismembers memory, KSM is a stand for the long archive. For confession as resistance. For art as resurrection.",
+    "crumbs": [
+      "KSM"
+    ]
+  }
+]

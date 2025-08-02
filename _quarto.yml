@@ -1,0 +1,30 @@
+project:
+  type: book
+
+book:
+  title: "CODEX"
+  subtitle: "A LEGENDARIUM"
+  author: "Oracle of Silicon Valley & Animus D.W.N"
+  date: "8/1/2025"
+
+  chapters:
+    - index.qmd
+    - artometric/artometric.qmd
+    - prismandpollen/prismandpollen.qmd
+    - cardinal/cardinal.qmd
+    - dawn/dawn.qmd
+    - trinity/trinity.qmd
+    - theeconomicartist/theeconomicartist.qmd
+    - ksm/ksm.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+editor: visual

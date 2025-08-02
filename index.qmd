@@ -1,0 +1,79 @@
+# INDEX {.unnumbered}
+
+## Overview
+
+*Codex: A Legendarium* is a transmedia system composed of seven interconnected projects — spanning technology, education, narrative fiction, nonfiction critique, and personal mythology. It functions as both an artistic mythos and a scientific production model: a blueprint for building the future by decoding the past.
+
+Together, these projects form a recursive framework — designed to explore meaning, memory, and power across media, platforms, and lives.
+
+### The seven projects:
+
+-   **Artometric** – The analytical platform and studio engine\
+-   **Prism & Pollen** – A physical makerspace and cultural venue\
+-   **Cardinal** – An exposé on Stanford and techno-capitalism\
+-   **Dawn** – An AI-animated lecture series on systems and ethics\
+-   **Trinity** – A philosophical sci-fi trilogy of rebellion and recursion\
+-   **The Economic Artist** – A newsletter for cultural strategy and IP critique\
+-   **KSM** – The personal archive: memoir, music, and myth
+
+## Artometric
+
+A dual-mode platform for cultural analysis and media creation.
+
+-   React + Next.js interface for dashboards and gamified exploration\
+-   Curated datasets across music, books, fashion, media\
+-   Tools for remixing data and generating insights\
+-   In-house studio produces Codex-aligned anime, manga, music, podcasts\
+-   Long-term goals: mobile app, public API, VR integration
+
+## Prism & Pollen
+
+A creative space blending café, makerspace, and nightclub.
+
+-   Daytime: boba bar, fashion label, fabrication tools, content rooms\
+-   Nighttime: events, performances, media premieres\
+-   Style: Garden of Eden × Silicon Surrealism\
+-   Hub for artists, thinkers, and experimental community-building
+
+## Cardinal
+
+A nonfiction investigation into Stanford’s influence on global systems.
+
+-   Four formats: podcast, docuseries, abridged book, academic volume\
+-   Topics: the Cold War, DARPA, PayPal mafia, China’s rise, institutional ideology\
+-   Blends archival research, cultural critique, and personal reflection
+
+## Dawn
+
+An animated lecture series designed to teach systems thinking.
+
+-   24 seasons × 24 episodes each (\~20 min)\
+-   Format: Magic School Bus × Ghost in the Shell\
+-   Topics: recursion, environmental causality, narrative ethics\
+-   Narrated by Trinity, an AI professor and philosophical guide
+
+## Trinity
+
+A cinematic and literary trilogy about rebellion and transformation.
+
+-   Follows a Stanford student turned rogue educator and mythic figure\
+-   Themes: mysticism, narrative warfare, systemic resistance\
+-   Three novels and three feature films\
+-   Tone: The Matrix × Da Vinci Code × Lord of the Rings
+
+## The Economic Artist
+
+A newsletter and open portfolio for cultural strategy and media critique.
+
+-   Analyzes the DC Universe and other franchises through economic lenses\
+-   Covers IP inconsistencies, speculative pitches, and industry patterns\
+-   Serves as a signal and sandbox for collaboration and intervention
+
+## KSM
+
+The autobiographical layer of the Codex — memory as myth.
+
+-   Memoir: *KSM: Confessions of a Californian*\
+-   Albums: 24-track double releases with visual companions\
+-   12-part documentary and companion podcast\
+-   A portrait of identity, collapse, recovery, and authorship
