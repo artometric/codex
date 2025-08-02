@@ -1,7 +1,6 @@
 # ARTOMETRIC {.unnumbered}
 
-## Overview  
-*The platform where meaning becomes measurable.*
+## Overview
 
 Artometric is the core technological project of *Codex: A Legendarium*. It’s a digital platform designed to explore culture as a system — mapping how ideas, trends, and creative movements evolve over time. Equal parts research tool, creative lab, and media studio, Artometric helps users see the structure behind art, media, and memory.
 
@@ -9,31 +8,34 @@ Artometric is the core technological project of *Codex: A Legendarium*. It’s a
 
 Artometric gives users two ways to explore cultural data:
 
-- **Analyst Mode** is a visual dashboard interface that lets users explore large datasets — from music genres and story arcs to fashion patterns and historical influences. Users can build visualizations, annotate timelines, and export datasets to use in their own research or creative work.
-
-- **Player Mode** turns data exploration into a gamified experience. Using a pixel-art world inspired by classic RPGs, users walk through historical eras, unlock narrative quests, and discover how cultural ideas connect across time.
+-   **Analyst Mode** is a visual dashboard interface that lets users explore large datasets — from music genres and story arcs to fashion patterns and historical influences. Users can build visualizations, annotate timelines, and export datasets to use in their own research or creative work.
+-   **Player Mode** turns data exploration into a gamified experience. Using a pixel-art world inspired by classic RPGs, users walk through historical eras, unlock narrative quests, and discover how cultural ideas connect across time.
 
 Together, these two modes create a platform that is both analytical and imaginative — useful for students, artists, researchers, and worldbuilders.
 
 ## Key Features
 
-- Curated datasets across music, books, media, fashion, and design  
-- Interactive dashboards with timeline, map, and network views  
-- Exportable data (CSV, JSON, image formats) for remixing or research  
-- A modular interface built with React and Next.js  
-- Gamified quests for exploring culture as an RPG  
-- Creator tools for storyboarding, remixing, and dataset annotation  
-- Public API (planned) for developers and educators
+-   Curated datasets across music, books, media, fashion, and design\
+-   Interactive dashboards with timeline, map, and network views\
+-   Exportable data (CSV, JSON, image formats) for remixing or research\
+-   A modular interface built with React and Next.js\
+-   Gamified quests for exploring culture as an RPG\
+-   Creator tools for storyboarding, remixing, and dataset annotation\
+-   Public API (planned) for developers and educators
 
 ## Studio Division
 
 Artometric includes a built-in studio that develops original content based on insights from the platform. This studio produces:
 
-- Anime based on narrative patterns  
-- Manga exploring symbolic timelines  
-- Podcasts that analyze cultural trends  
-- Music generated from genre and rhythm analytics  
-- Essays and visual projects that remix historical data
+-   Anime based on narrative patterns
+
+-   Manga exploring symbolic timelines
+
+-   Podcasts that analyze cultural trends
+
+-   Music generated from genre and rhythm analytics
+
+-   Essays and visual projects that remix historical data
 
 The Studio transforms cultural analysis into original creative media, demonstrating how data can inspire new mythologies.
 
@@ -41,14 +43,16 @@ The Studio transforms cultural analysis into original creative media, demonstrat
 
 Planned expansions for Artometric include:
 
-- A mobile app for daily insights, journaling, and creative prompts  
-- VR and AR experiences for immersive data exploration  
-- Creator plug-ins for modular tools and storytelling templates  
-- Academic and studio partnerships for co-produced research and media  
-- Fellowship programs for platform-native creators
+-   A mobile app for daily insights, journaling, and creative prompts
+
+-   VR and AR experiences for immersive data exploration
+
+-   Creator plug-ins for modular tools and storytelling templates
+
+-   Academic and studio partnerships for co-produced research and media
+
+-   Fellowship programs for platform-native creators
 
 ## Why It Matters
 
-Culture moves in patterns. Stories repeat. Symbols echo. Artometric helps users see those patterns clearly — and gives them the tools to turn that insight into something new.
-By blending analysis and creativity, Artometric becomes more than a tool — it becomes a new way to engage with meaning itself.
-
+Culture moves in patterns. Stories repeat. Symbols echo. Artometric helps users see those patterns clearly — and gives them the tools to turn that insight into something new. By blending analysis and creativity, Artometric becomes more than a tool — it becomes a new way to engage with meaning itself.

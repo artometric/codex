@@ -1,7 +1,6 @@
 # CARDINAL {.unnumbered}
 
-## Overview  
-*A nonfiction exposé on Stanford, Silicon Valley, and the empire of ideas.*
+## Overview
 
 Cardinal is the investigative branch of *Codex: A Legendarium* — a deep dive into the institutions that shaped modern techno-capitalism. It’s a sweeping nonfiction project that explores Stanford University’s outsized role in building the American empire of surveillance, software, startups, and soft power.
 
@@ -11,39 +10,49 @@ Part exposé, part documentary, and part personal reckoning, Cardinal asks: What
 
 Cardinal will be released across four formats, each tailored to a different audience:
 
-- **Podcast Series**  
-  A 12-part investigative podcast (~2 hours per episode), modeled after works like *Slow Burn* or *Caliphate*, combining interviews, archival research, and narrative storytelling.
+-   **Podcast Series**
 
-- **Documentary Series**  
-  An 8-part video series (~45 minutes each) that visualizes key people, places, and networks — using animation, maps, and cinematic reenactments.
+    -   A 12-part investigative podcast (\~2 hours per episode), modeled after works like *Slow Burn* or *Caliphate*, combining interviews, archival research, and narrative storytelling.
 
-- **Abridged Book**  
-  A 120–200 page accessible version for general readers, focused on clear storytelling and cultural context.
+-   **Documentary Series**
 
-- **Academic Volume**  
-  A full-length research-backed edition (400–800 pages) with citations, footnotes, and primary documents — meant for classrooms and libraries.
+    -   An 8-part video series (\~45 minutes each) that visualizes key people, places, and networks — using animation, maps, and cinematic reenactments.
+
+-   **Abridged Book**
+
+    -   A 120–200 page accessible version for general readers, focused on clear storytelling and cultural context.
+
+-   **Academic Volume**
+
+    -   A full-length research-backed edition (400–800 pages) with citations, footnotes, and primary documents — meant for classrooms and libraries.
 
 ## Topics Covered
 
 Cardinal traces the arc of Stanford’s power — from railroads to Silicon Valley to global influence — across several chapters:
 
-- **Founding Myths**  
-  Leland Stanford’s railroad fortune, the American frontier, and the myth of meritocracy
+-   **Founding Myths**
 
-- **The Cold War Network**  
-  How Stanford Research Institute, the military, and DARPA built the modern internet
+    -   Leland Stanford’s railroad fortune, the American frontier, and the myth of meritocracy
 
-- **The PayPal Mafia**  
-  A case study in elite networking, ideology laundering, and startup absolutism
+-   **The Cold War Network**
 
-- **Surveillance Capitalism**  
-  Google, Palantir, and the political economy of data extraction
+    -   How Stanford Research Institute, the military, and DARPA built the modern internet
 
-- **Education as Empire**  
-  Stanford’s global reach through admissions, branding, think tanks, and private equity
+-   **The PayPal Mafia**
 
-- **China and the Mirror**  
-  How Stanford’s influence helped shape the Chinese tech elite — and what that means now
+    -   A case study in elite networking, ideology laundering, and startup absolutism -
+
+-   **Surveillance Capitalism**
+
+    -   Google, Palantir, and the political economy of data extraction
+
+-   **Education as Empire**
+
+    -   Stanford’s global reach through admissions, branding, think tanks, and private equity
+
+-   **China and the Mirror**
+
+    -   How Stanford’s influence helped shape the Chinese tech elite — and what that means now
 
 Each chapter reveals how a single institution came to reflect, design, and export a worldview — often invisibly.
 
@@ -51,25 +60,26 @@ Each chapter reveals how a single institution came to reflect, design, and expor
 
 Cardinal combines first-person research, interviews, archival analysis, and critical theory. The tone is grounded but urgent — investigative but imaginative. It aims to:
 
-- Connect historical events to modern outcomes  
-- Reveal hidden power structures beneath familiar institutions  
-- Ask philosophical questions about technology, education, and freedom  
-- Bridge personal memory with cultural critique
+-   Connect historical events to modern outcomes
+
+-   Reveal hidden power structures beneath familiar institutions
+
+-   Ask philosophical questions about technology, education, and freedom
+
+-   Bridge personal memory with cultural critique
 
 Think: *The Shock Doctrine* × *The Social Network* × *The Power Broker*.
 
 ## Production and Access
 
-The Cardinal project is designed for modular release — content will be made available for free online (via podcast + web), with physical editions and screenings offered for schools, libraries, and community organizations.
+The Cardinal project is designed for modular release — content will be made available for free online (via podcast + web), with physical editions and screenings offered for schools, libraries, and community organizations. Special attention will be given to:
 
-Special attention will be given to:
-- Accessibility for non-academic readers  
-- Open-source publication of research materials  
-- Bilingual or subtitled formats for global viewers
+-   Accessibility for non-academic readers
+
+-   Open-source publication of research materials
+
+-   Bilingual or subtitled formats for global viewers
 
 ## Why It Matters
 
-Stanford is more than a school. It’s a symbol. A system. A signal.
-
-Cardinal is an attempt to trace the root system behind much of today’s technology, politics, and cultural power. By exposing how knowledge is weaponized — and how institutions become ideologies — Cardinal offers a necessary tool for anyone trying to understand the world we live in, and imagine something different.
-
+Stanford is more than a school. It’s a symbol. A system. A signal. Cardinal is an attempt to trace the root system behind much of today’s technology, politics, and cultural power. By exposing how knowledge is weaponized — and how institutions become ideologies — Cardinal offers a necessary tool for anyone trying to understand the world we live in, and imagine something different.

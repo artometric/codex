@@ -2,8 +2,6 @@
 
 ## Overview
 
-*A creative garden for the new generation.*
-
 Prism & Pollen is the physical hub of *Codex: A Legendarium* — a real-world space for creative work, cultural gathering, and experimental expression. Equal parts café, makerspace, fashion label, and event venue, it’s designed to feel like stepping into another reality: a cross between an art studio, a botanical lounge, and a nightclub in the future.
 
 It’s a place for creators to meet, share ideas, produce work, and celebrate new culture — with tools, textures, and tastes to match.
@@ -24,9 +22,7 @@ Prism & Pollen is a multifunctional, modular space designed for both daytime and
 -   Transforms into a creative nightclub and event space with rotating programming:
     -   DJ sets, live jazz, and media premieres behind glass display stages
     -   Release parties for films, albums, and fashion drops
-    -   Curated pop-ups, collaborations, and private showcases
-
-Memberships or pay-what-you-can entry models keep the space accessible while fostering creative accountability.
+    -   Curated pop-ups, collaborations, and private showcases Memberships or pay-what-you-can entry models keep the space accessible while fostering creative accountability.
 
 ## Key Features
 
@@ -40,31 +36,34 @@ Memberships or pay-what-you-can entry models keep the space accessible while fos
 
 ## The Brand
 
-Prism & Pollen isn’t just a space — it’s a brand. The aesthetic blends natural and surreal, high-tech and ancient, soft and symbolic. Think:
+Prism & Pollen isn’t just a space — it’s a brand. The aesthetic blends natural and surreal, high-tech and ancient, soft and symbolic. Think: - *Garden of Eden meets Silicon Valley surrealism*
 
--   *Garden of Eden meets Silicon Valley surrealism*\
--   Overgrown cables, glowing mushrooms, mirrored ponds\
--   Botanical textures, glitch prints, memory symbols\
+-   Overgrown cables, glowing mushrooms, mirrored ponds
+
+-   Botanical textures, glitch prints, memory symbols
+
 -   A dreamlike, storybook setting built for a new kind of cultural artist
 
-The name symbolizes two opposing creative forces:\
-- **Prism**: structure, analysis, light, reflection\
-- **Pollen**: nature, chaos, reproduction, drift
+The name symbolizes two opposing creative forces:
+
+-   **Prism**: structure, analysis, light, reflection
+
+-   **Pollen**: nature, chaos, reproduction, drift
 
 Together, they form the cycle of creative work: refract and spread.
 
 ## Future Vision
 
-Prism & Pollen is designed to scale through partnerships and duplication:
+Prism & Pollen is designed to scale through partnerships and duplication: - Flagship location in a major West Coast creative city (e.g. LA, SF, Seattle)
 
--   Flagship location in a major West Coast creative city (e.g. LA, SF, Seattle)\
--   Satellite pop-ups or traveling exhibitions (linked with Codex projects)\
--   Hardware showroom for AI-enabled cameras, wearable tech, or storytelling tools\
--   Integration with the Artometric platform for live projections, immersive datasets, and collaborative installations\
+-   Satellite pop-ups or traveling exhibitions (linked with Codex projects)
+
+-   Hardware showroom for AI-enabled cameras, wearable tech, or storytelling tools
+
+-   Integration with the Artometric platform for live projections, immersive datasets, and collaborative installations
+
 -   International network of creative gardens — part venue, part sanctuary, part lab
 
 ## Why It Matters
 
-While the internet gives us reach, physical spaces give us depth. Prism & Pollen exists to anchor creative communities in the real world — spaces where art, technology, and memory intersect.
-
-It’s a space for making and becoming. A social infrastructure for the cultural future.
+While the internet gives us reach, physical spaces give us depth. Prism & Pollen exists to anchor creative communities in the real world — spaces where art, technology, and memory intersect. It’s a space for making and becoming. A social infrastructure for the cultural future.
